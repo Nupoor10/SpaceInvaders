@@ -7,7 +7,7 @@ This project was built as part of a **Finish-Up-A-Thon**, breathing new life int
 ---
 
 ## 🚀 Play Now
-* **Live Deployment:** [Insert your hosting link here]
+* **Live Deployment:** [https://nupoor10.github.io/SpaceInvaders/]
 
 ---
 
