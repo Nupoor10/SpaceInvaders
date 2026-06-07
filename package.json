@@ -1,0 +1,17 @@
+{
+  "name": "pixel-siege",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arcade",
+    "phaser3",
+    "game"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "An 8-bit retro arcade shooter built with Phaser 3."
+}
